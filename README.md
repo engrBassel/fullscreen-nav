@@ -1,2 +1,4 @@
-# fullscreen-nav
-This repo contains a fullscreen nav using HTML, CSS, JavaScript.
+# Fullscreen Nav
+- This repo contains a fullscreen nav.
+- The User can close nav with "Esc" key.
+- Using HTML, CSS, JavaScript.
